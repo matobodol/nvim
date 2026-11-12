@@ -1,0 +1,18 @@
+# Neovim swap and backup files
+*.swp
+*.swo
+*.bak
+*~
+
+# Neovim temporary files
+*.tmp
+*.log
+
+# Session and local state
+Session.vim
+.netrwhist
+
+# Generated files
+tags
+.DS_Store
+Thumbs.db
